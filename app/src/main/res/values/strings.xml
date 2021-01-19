@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notification Demo</string>
+    <string name="btnText">Notification Button</string>
+    <string name="notification_title">Its time to get hydrated!!</string>
+    <string name="notification_desc">Here is reminder for you to drink water</string>
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">Its time to drink water</string>
+    <string name="longText">Some studies have shown that drinking more water can reduce the risk of bladder infections and urinary tract infections, such as cystitis, in women. While drinking water won\'t prevent a hangover, some research suggests that being hydrated can reduce some of the negative after-effects of drinking alcohol.</string>
+</resources>
